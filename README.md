@@ -14,3 +14,6 @@
     	"password" : "",
     	"port" : 3306
     }
+
+## 对应的vue-shop后台系统项目地址
+https://github.com/lllsaaxx/Vue-shop
